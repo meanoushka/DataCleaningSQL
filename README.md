@@ -1,6 +1,6 @@
 # DataCleaningSQL
 
-In this Project I
+In this Project, I
 - Tried to standardise or change the date format using CONVERT.
 - Populated Property Address
 - Broke out Address into Individual Columns (Address, City, State)
